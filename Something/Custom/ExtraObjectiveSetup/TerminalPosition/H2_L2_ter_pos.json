@@ -1,0 +1,53 @@
+{
+  "MainLevelLayout": 1993990524,
+  "Definitions": [
+    {
+      "DimensionIndex": 0,
+      "LayerType": 1,
+      "LocalIndex": 1,
+      "InstanceIndex": 0,
+      "Position": {
+        "x": 145.2385,
+        "y": 0.77, // -0.01,
+        "z": 255.910 // 255.055 // center: 255.910
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      }
+    },
+    {
+      "DimensionIndex": 0,
+      "LayerType": 1,
+      "LocalIndex": 0,
+      "InstanceIndex": 0,
+      "Position": {
+        "x": 91.9,
+        "y": -0.0338,
+        "z": 270.610
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      }
+    },
+    {
+      "DimensionIndex": 0,
+      "LayerType": 1,
+      "LocalIndex": 2,
+      "InstanceIndex": 0,
+      "Position": {
+        "x": 172.5,
+        "y": -0.0597,
+        "z": 260.610
+      },
+      "Rotation": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      }
+    }
+  ]
+}

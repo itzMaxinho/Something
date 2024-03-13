@@ -1,0 +1,413 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "RoleDatas": [
+        {
+          "Role": 0,
+          "Difficulty": 0,
+          "Enemy": 24,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Hibernate"
+        },
+        {
+          "Role": 0,
+          "Difficulty": 1,
+          "Enemy": 24,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Hibernate"
+        },
+        {
+          "Role": 0,
+          "Difficulty": 1,
+          "Enemy": 28,
+          "Cost": 4.0,
+          "Weight": 0.3,
+          "Comment": "Striker_Big_Hibernate"
+        },
+        {
+          "Role": 0,
+          "Difficulty": 2,
+          "Enemy": 28,
+          "Cost": 4.0,
+          "Weight": 0.3,
+          "Comment": "Striker_Big_Hibernate"
+        },
+        {
+          "Role": 0,
+          "Difficulty": 2,
+          "Enemy": 24,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Hibernate"
+        },
+        {
+          "Role": 0,
+          "Difficulty": 6,
+          "Enemy": 21,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Shadow"
+        },
+        {
+          "Role": 0,
+          "Difficulty": 7,
+          "Enemy": 35,
+          "Cost": 4.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Big_Shadow"
+        },
+        {
+          "Role": 1,
+          "Difficulty": 0,
+          "Enemy": 26,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Shooter_Hibernate"
+        },
+        {
+          "Role": 1,
+          "Difficulty": 1,
+          "Enemy": 26,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Shooter_Hibernate"
+        },
+        // {
+        //   "Role": 1,
+        //   "Difficulty": 1,
+        //   "Enemy": 18,
+        //   "Cost": 4.0,
+        //   "Weight": 0.2,
+        //   "Comment": "Shooter_Big"
+        // },
+        {
+          "Role": 1,
+          "Difficulty": 2,
+          "Enemy": 26,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Shooter_Hibernate"
+        },
+        // {
+        //   "Role": 1,
+        //   "Difficulty": 2,
+        //   "Enemy": 18,
+        //   "Cost": 4.0,
+        //   "Weight": 0.2,
+        //   "Comment": "Shooter_Big"
+        // },
+        {
+          "Role": 5,
+          "Difficulty": 0,
+          "Enemy": 20,
+          "Cost": 5.0,
+          "Weight": 1.0,
+          "Comment": "Scout"
+        },
+        {
+          "Role": 5,
+          "Difficulty": 1,
+          "Enemy": 20,
+          "Cost": 5.0,
+          "Weight": 1.0,
+          "Comment": "Scout"
+        },
+        {
+          "Role": 5,
+          "Difficulty": 2,
+          "Enemy": 20,
+          "Cost": 5.0,
+          "Weight": 1.0,
+          "Comment": "Scout"
+        },
+        {
+          "Role": 5,
+          "Difficulty": 3,
+          "Enemy": 41,
+          "Cost": 5.0,
+          "Weight": 1.0,
+          "Comment": "Charger Scout"
+        },
+        {
+          "Role": 5,
+          "Difficulty": 4,
+          "Enemy": 40,
+          "Cost": 5.0,
+          "Weight": 1.0,
+          "Comment": "Shadow Scout"
+        },
+        {
+          "Role": 5,
+          "Difficulty": 5,
+          "Enemy": 54,
+          "Cost": 5.0,
+          "Weight": 1.0,
+          "Comment": "Four Legs Scout"
+        },
+        {
+          "Role": 5,
+          "Difficulty": 6,
+          "Enemy": 56,
+          "Cost": 5.0,
+          "Weight": 1.0,
+          "Comment": "Nightmare Scout"
+        },
+        {
+          "Role": 4,
+          "Difficulty": 0,
+          "Enemy": 28,
+          "Cost": 3.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Big_Hibernate"
+        },
+        {
+          "Role": 4,
+          "Difficulty": 1,
+          "Enemy": 28,
+          "Cost": 3.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Big_Hibernate"
+        },
+        // {
+        //   "Role": 4,
+        //   "Difficulty": 1,
+        //   "Enemy": 18,
+        //   "Cost": 3.0,
+        //   "Weight": 0.2,
+        //   "Comment": "Shooter_Big"
+        // },
+        {
+          "Role": 4,
+          "Difficulty": 2,
+          "Enemy": 36,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Birther / Matka"
+        },
+        {
+          "Role": 4,
+          "Difficulty": 6,
+          "Enemy": 33,
+          "Cost": 3.0,
+          "Weight": 1.0,
+          "Comment": "Shooter_Big_RapidFire / Hybryda?"
+        },
+        {
+          "Role": 4,
+          "Difficulty": 4,
+          "Enemy": 44,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "SquidBoss_Big"
+        },
+        {
+          "Role": 4,
+          "Difficulty": 5,
+          "Enemy": 29,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Tank / Stary"
+        },
+        {
+          "Role": 4,
+          "Difficulty": 3,
+          "Enemy": 37,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Birher_Boss / Duża Matka / p-mother"
+        },
+        {
+          "Role": 8,
+          "Difficulty": 7,
+          "Enemy": 38,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Child / Dziecko matki / Małe"
+        },
+        {
+          "Role": 8,
+          "Difficulty": 0,
+          "Enemy": 38,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Child / Dziecko matki / Małe"
+        },
+        {
+          "Role": 8,
+          "Difficulty": 6,
+          "Enemy": 42,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Flyer"
+        },
+        {
+          "Role": 7,
+          "Difficulty": 0,
+          "Enemy": 33,
+          "Cost": 4.0,
+          "Weight": 1.0,
+          "Comment": "Shooter_Big_RapidFire / Hybryda?"
+        },
+        {
+          "Role": 7,
+          "Difficulty": 1,
+          "Enemy": 33,
+          "Cost": 4.0,
+          "Weight": 1.0,
+          "Comment": "Shooter_Big_RapidFire / Hybryda?"
+        },
+        {
+          "Role": 7,
+          "Difficulty": 2,
+          "Enemy": 36,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Birther / Matka"
+        },
+        {
+          "Role": 7,
+          "Difficulty": 3,
+          "Enemy": 37,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Birher_Boss / Duża Matka / p-mother"
+        },
+        {
+          "Role": 7,
+          "Difficulty": 5,
+          "Enemy": 29,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Tank / Stary"
+        },
+        {
+          "Role": 7,
+          "Difficulty": 7,
+          "Enemy": 16,
+          "Cost": 4.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Big_Wave / Chargery? Duze? Na blood doory?"
+        },
+        {
+          "Role": 7,
+          "Difficulty": 6,
+          "Enemy": 46,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Snatcher / Pies"
+        },
+        {
+          "Role": 3,
+          "Difficulty": 0,
+          "Enemy": 30,
+          "Cost": 2.0,
+          "Weight": 1.0,
+          "Comment": "Charger / Czarny"
+        },
+        {
+          "Role": 3,
+          "Difficulty": 1,
+          "Enemy": 30,
+          "Cost": 2.0,
+          "Weight": 1.0,
+          "Comment": "Charger / Czarny"
+        },
+        {
+          "Role": 3,
+          "Difficulty": 2,
+          "Enemy": 39,
+          "Cost": 4.0,
+          "Weight": 1.0,
+          "Comment": "Big Charger / Duzy Czarny"
+        },
+        {
+          "Role": 10,
+          "Difficulty": 4,
+          "Enemy": 37,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Birher_Boss / Duża Matka / p-mother"
+        },
+        {
+          "Role": 9,
+          "Difficulty": 3,
+          "Enemy": 36,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Birher / Matka"
+        },
+        {
+          "Role": 9,
+          "Difficulty": 5,
+          "Enemy": 29,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Tank / Stary"
+        },
+        {
+          "Role": 9,
+          "Difficulty": 9,
+          "Enemy": 47,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Tank_Boss / Pablo"
+        },
+        {
+          "Role": 6,
+          "Difficulty": 0,
+          "Enemy": 30,
+          "Cost": 1.0,
+          "Weight": 1.0,
+          "Comment": "Charger / Czarny"
+        },
+        {
+          "Role": 3,
+          "Difficulty": 6,
+          "Enemy": 53,
+          "Cost": 2.0,
+          "Weight": 1.0,
+          "Comment": "Striker_Berserk / Striker_Nightmare / Nowy Nightmare"
+        },
+        {
+          "Role": 3,
+          "Difficulty": 7,
+          "Enemy": 52,
+          "Cost": 2.0,
+          "Weight": 1.0,
+          "Comment": "Shooter_Spread / Shooter_Nightmare / Nowy Nightmare Shooter"
+        },
+        {
+          "Role": 5,
+          "Difficulty": 101,
+          "Enemy": 40,
+          "Cost": 5.0,
+          "Weight": 1.0,
+          "Comment": "Shadow Scout"
+        },
+        {
+          "Role": 0,
+          "Difficulty": 102,
+          "Enemy": 55,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "MegaMother / Mega Mother"
+        },
+        {
+          "Role": 0,
+          "Difficulty": 103,
+          "Enemy": 46,
+          "Cost": 10.0,
+          "Weight": 1.0,
+          "Comment": "Hibernate Snatcher / Pies / Hibernate Pouncer"
+        }
+      ],
+      "name": "DefaultPop",
+      "internalEnabled": true,
+      "persistentID": 1
+    }
+  ],
+  "LastPersistentID": 9
+}

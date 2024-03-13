@@ -1,0 +1,360 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big.prefab",
+      "name": "SecurityScan_Big",
+      "internalEnabled": true, // sredni czerwony 5%/s | 20s to complete
+      "persistentID": 2
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_big_defend.prefab",
+      "name": "SecurityScan_Big_Defend",
+      "internalEnabled": true, // duzy czerwony wolny fest 0,5%/s (1%/2s) | 200s to complete
+      "persistentID": 56
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Moving.prefab",
+      "name": "SecurityScan_Big_Moving",
+      "internalEnabled": true, // full team duzy not moving wolny fest 0,5%/s (1%/2s) | 200s to complete
+      "persistentID": 22
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Moving_R6D2.prefab",
+      "name": "SecurityScan_Big_Moving_R6D2",
+      "internalEnabled": true, // full team sredni not moving wolny 2%/s | 50s to complete
+      "persistentID": 31
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_R8B4.prefab",
+      "name": "SecurityScan_Big_Moving_R8B4",
+      "internalEnabled": true, // czerwony sredni not moving wolny fest 0,5%/s (1%/2s) | 200s to complete
+      "persistentID": 42
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_R8B2.prefab",
+      "name": "SecurityScan_Big_Moving_R8B2",
+      "internalEnabled": true, // czerwony sredni wolny 2%/s | 50s to complete
+      "persistentID": 60
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_R8B4_v2.prefab",
+      "name": "SecurityScan_Big_Moving_R8B4_v2",
+      "internalEnabled": true, // full team duzy not moving 1%/s | 100s to complete
+      "persistentID": 43
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_R7B1.prefab",
+      "name": "SecurityScan_Big_Moving_R7B1",
+      "internalEnabled": true, // czerwony sredni not moving 1%/s | 100s to complete
+      "persistentID": 38
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_Moving_A.prefab",
+      "name": "SecurityScan_Big_Moving_A",
+      "internalEnabled": true, // czerwony sredni not moving 1%/s | 100s to complete
+      "persistentID": 52
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Small.prefab",
+      "name": "SecurityScan_Small",
+      "internalEnabled": true, // czerwony maly jeden xd 5s to complete
+      "persistentID": 3
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Cluster_Small.prefab",
+      "name": "SecurityScan_Cluster_Small",
+      "internalEnabled": true, // 4 male czerwone 4s each to complete
+      "persistentID": 4
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Cluster_Big.prefab",
+      "name": "SecurityScan_Cluster_Big",
+      "internalEnabled": true, // 2 srednie czerwone, 20s each to complete
+      "persistentID": 5
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Cluster_Big.prefab",
+      "name": "SecurityScan_Cluster_Big_RequireAll",
+      "internalEnabled": true, // 2 srednie czerwone full team??, 20s each to complete ???
+      "persistentID": 15
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll.prefab",
+      "name": "SecurityScan_Big_RequireAll",
+      "internalEnabled": true, // full team sredni 10%/s | 10s to complete
+      "persistentID": 6
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8E2_01.prefab",
+      "name": "SecurityScan_Big_RequireAll_PortalRoom_01",
+      "internalEnabled": true, // full team duzy | 60s to complete
+      "persistentID": 57
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8E2_02.prefab",
+      "name": "SecurityScan_Big_RequireAll_PortalRoom_02",
+      "internalEnabled": true, // full team huge wolny | 150s to complete
+      "persistentID": 58
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides_R8C2.prefab",
+      "name": "SecurityScan_Big_RequireAll_R8C2_01",
+      "internalEnabled": true, // S whole room 2%/s | 50s to complete
+      "persistentID": 53
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8C2_02.prefab",
+      "name": "SecurityScan_Big_RequireAll_R8C2_02",
+      "internalEnabled": true, // full team huge 2%/s | 50s to complete
+      "persistentID": 54
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8C2_03.prefab",
+      "name": "SecurityScan_Big_RequireAll_R8C2_03",
+      "internalEnabled": true, // full team big | 35s to complete
+      "persistentID": 55
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R8B2.prefab",
+      "name": "SecurityScan_Big_RequireAll_R8B2",
+      "internalEnabled": true, // full team sredni | 25s to complete
+      "persistentID": 51
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Instant.prefab",
+      "name": "SecurityScan_Big_RequireAll_Instant",
+      "internalEnabled": true, //full team sredni instant | 1s to complete
+      "persistentID": 45
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6A1_Narrative.prefab",
+      "name": "SecurityScan_Big_RequireAll_R6A1_Narrative",
+      "internalEnabled": true, // full team sredni 5%/s | 20s to complete
+      "persistentID": 25
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_MegaHuge_RequireAll_R8E1.prefab",
+      "name": "SecurityScan_Big_RequireAll_R8E1_Narrative",
+      "internalEnabled": true, // S sredni instant | 1s to complete
+      "persistentID": 46
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6C1_Narrative_1.prefab",
+      "name": "SecurityScan_Big_RequireAll_R6C1_Narrative_1",
+      "internalEnabled": true, // full team sredni fast | 10s to complete
+      "persistentID": 26
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6C1_Narrative_2.prefab",
+      "name": "SecurityScan_Big_RequireAll_R6C1_Narrative_2",
+      "internalEnabled": true, // full team sredni fast | 10s to complete
+      "persistentID": 27
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6C1_Narrative_3.prefab",
+      "name": "SecurityScan_Big_RequireAll_R6C1_Narrative_3",
+      "internalEnabled": true, // full team sredni  fast | 10s to complete
+      "persistentID": 28
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_R6C1_Narrative_4.prefab",
+      "name": "SecurityScan_Big_RequireAll_R6C1_Narrative_4",
+      "internalEnabled": true, // full team sredni  fast | 10s to complete
+      "persistentID": 29
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_D10_RequireAll.prefab",
+      "name": "SecurityScan_D10_RequireAll",
+      "internalEnabled": true, // duzy full team dlugi fest 1%/s | 100s to complete
+      "persistentID": 20
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Checkpoint.prefab",
+      "name": "SecurityScan_Checkpoint", //checkpoint 10 sec
+      "internalEnabled": true,
+      "persistentID": 19
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_ExpeditionExit.prefab",
+      "name": "SecurityScan_ExpeditionExit",
+      "internalEnabled": true, // extract skan duzy default: 15s to complete
+      "persistentID": 7
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bigger_RequireAll.prefab",
+      "name": "SecurityScan_Bigger_RequireAll",
+      "internalEnabled": true, // sredni full team 5%/s | 20s to complete
+      "persistentID": 8
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll.prefab",
+      "name": "SecurityScan_Sustained_RequireAll",
+      "internalEnabled": true, // sredni S wolny 1%/s | 100s to complete
+      "persistentID": 13
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll_E2.prefab",
+      "name": "SecurityScan_Sustained_RequireAll_E2",
+      "internalEnabled": true, // S duzy wolny | 80s to complete
+      "persistentID": 62
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll_R8B3_Easy.prefab",
+      "name": "SecurityScan_Sustained_RequireAll_R8B3_Easy",
+      "internalEnabled": true, // S duzy fast | 35s to complete
+      "persistentID": 48
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll_R8B3_Medium.prefab",
+      "name": "SecurityScan_Sustained_RequireAll_R8B3_Medium",
+      "internalEnabled": true, // S duzy wolny | 100s to complete
+      "persistentID": 49
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_RequireAll_R8B3_Hard.prefab",
+      "name": "SecurityScan_Sustained_RequireAll_R8B3_Hard",
+      "internalEnabled": true, // S duzy wolny | 150s to complete
+      "persistentID": 50
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_Medium_RequireAll.prefab",
+      "name": "SecurityScan_Sustained_Medium_RequireAll",
+      "internalEnabled": true, // s sredni wolny | 100s to complete
+      "persistentID": 32
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_MegaHuge_RequireAll.prefab",
+      "name": "SecurityScan_Sustained_MegaHuge_RequireAll",
+      "internalEnabled": true, // S na caly pokoj wolny fest (poziomy) | 300s to complete
+      "persistentID": 17
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_3_sides",
+      "internalEnabled": true, // S na caly pokoj wolny fest (pionowy) | 130s to complete
+      "persistentID": 33
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_3_sides.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_3_sides_v2",
+      "internalEnabled": true, // S na caly pokoj wolny fest (pionowy) | 150s to complete
+      "persistentID": 36
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_AllSides",
+      "internalEnabled": true, // S na caly pokoj wolny fest (pionowy) | 110s to complete
+      "persistentID": 35
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_No_Graphics_R8D1.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_No_Graphics_R8D1",
+      "internalEnabled": true, // S na cala MAPE wolny fest (poziomy) | 100s to complete
+      "persistentID": 59
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides_R5B3.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_AllSides_R5B3",
+      "internalEnabled": true, // S na caly pokoj wolny fest (pionowy) | 100s to complete
+      "persistentID": 44
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides_wider.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_AllSides_Wider",
+      "internalEnabled": true, // S na caly pokoj wolny fest (pionowy) | 100s to complete
+      "persistentID": 40
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_scan_all_sides_Pouncer.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_AllSides_PouncerIntro",
+      "internalEnabled": true, // S na caly pokoj wolny fest (pionowy) | 150s to complete
+      "persistentID": 37
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_No_Graphics.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_No_Graphics",
+      "internalEnabled": true, // S na cala MAPE wolny fest (poziomy) | 150s to complete
+      "persistentID": 34
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_geo_No_Graphics_R8A2.prefab",
+      "name": "SecurityScan_Sustained_GeoScan_No_Graphics_R8A2",
+      "internalEnabled": true, // S na cala MAPE wolny fest (poziomy) | 110s to complete
+      "persistentID": 47
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_Huge_RequireAll .prefab",
+      "name": "SecurityScan_Sustained_Huge_RequireAll",
+      "internalEnabled": true, // S na caly pokoj wolny fest (pionowy) | 120s to complete
+      "persistentID": 18
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_sustained_small_RequireAll.prefab",
+      "name": "SecurityScan_Sustained_Small_RequireAll",
+      "internalEnabled": true, // S single 15s to complete
+      "persistentID": 14
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Sustained_Cluster_Big_RequireAll.prefab",
+      "name": "SecurityScan_Sustained_Cluster_Big_RequireAll",
+      "internalEnabled": true,
+      "persistentID": 16 // 3x S małe 10%/s | 3x 10s to complete
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Cluster_Six.prefab",
+      "name": "SecurityScan_Cluster_Six",
+      "internalEnabled": true, // big cluster 8
+      "persistentID": 9
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_MegaCluster_R8B4.prefab",
+      "name": "SecurityScan_MegaCluster_R8B4",
+      "internalEnabled": true, // mega cluster
+      "persistentID": 61
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bulkhead_Select_Layer_Main.prefab",
+      "name": "SecurityScan_Bulkhead_Select_Layer_Main",
+      "internalEnabled": true, // main 20s
+      "persistentID": 10
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bulkhead_Select_Layer_Secondary.prefab",
+      "name": "SecurityScan_Bulkhead_Select_Layer_Secondary",
+      "internalEnabled": true, // secondary 20s
+      "persistentID": 11
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Bulkhead_Select_Layer_Third.prefab",
+      "name": "SecurityScan_Bulkhead_Select_Layer_Third",
+      "internalEnabled": true, // overload 20s
+      "persistentID": 12
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Moving.prefab",
+      "name": "SecurityScan_Big_RequireAll_Moving1",
+      "internalEnabled": true, // full team not moving duzy wolny fest | 200s to complete
+      "persistentID": 21
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Moving_3_random.prefab",
+      "name": "SecurityScan_Big_RequireAll_Moving_3_random",
+      "internalEnabled": true, // full team not moving duzy wolny | 100s to complete
+      "persistentID": 24
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Hack.prefab",
+      "name": "SecurityScan_Hack",
+      "internalEnabled": true, // o kurwa hacklock w skanie xd 
+      "persistentID": 30
+    },
+    {
+      "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_RequireExit.prefab",
+      "name": "SecurityScan.ExitTeam",
+      "internalEnabled": true, // extract full team sredni default: 10s
+      "persistentID": 41
+    }
+  ],
+  "LastPersistentID": 62
+}

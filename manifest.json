@@ -1,0 +1,19 @@
+{
+    "name": "Something",
+    "version_number": "1.3.4",
+    "website_url": "https://gtfo.thunderstore.io/",
+    "description": "Difficult rundown rewarding good aim. Team of 4 recommended. Most levels designed to be relatively short but intense, pithy and satisfying. Most weapons slightly buffed. No locks on boxes. Difficulty and recommended gear given in every level description.",
+    "dependencies": [
+        "BepInEx-BepInExPack_GTFO-3.2.1",
+        "dakkhuza-MTFO-4.6.0",
+        "Fody55-GTFO_ShootInTheAir-2.0.1",
+        "Frog-CleanClothes-1.0.3",
+        "easternunit100-WwiseGameParameterController-0.0.1",
+        "DarkEmperor-OldBulkheadSound-0.0.6",
+        "Inas07-ExtraObjectiveSetup-1.4.6",
+        "GTFOModding-InjectLib-1.0.2",
+        "GTFOModding-AWO_Testing-0.999.7",
+        "Inas07-ExtraSurvivalWaveSettings-1.1.1",
+        "Inas07-LocalProgression-1.1.10"
+]
+}
